@@ -10,4 +10,4 @@ See: more [about me](https://zacharykai.net/about), what I'm [working on](https:
 
 Meeting folks is a delight, so please, [email me](mailto:hi@zacharykai.net), sign the [guestbook](https://zacharykai.net/guestbook), or both!
 
-Want to go for a web wander? Visit the blogroll, my bookmarks, or a random page.
+Want to go for a web wander? Visit the [blogroll](https://zacharykai.net/blogroll), my [bookmarks](https://zacharykai.net/bookmarks), or a [random](https://zacharykai.net/random) page.
