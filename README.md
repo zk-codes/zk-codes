@@ -10,7 +10,6 @@ A space fantasy writer, offbeat queer, twenty-something, curiosity enthusiast, a
 
 ## Repositories
 
-- Bookblog:
 - [Bookmarklets](https://github.com/zk-codes/bookmarklets):
 - Site:
 
