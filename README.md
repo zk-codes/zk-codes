@@ -17,4 +17,4 @@ Want to go for a web wander? Visit the [blogroll](https://zacharykai.net/blogrol
 ---
 
 [**Octo Ring**](https://octo-ring.com/) →
-[Previous}(https://octo-ring.com/p/zk-codes/prev)] | [Random](https://octo-ring.com/p/zk-codes/random)] | [Next](https://octo-ring.com/p/zk-codes/next)]
+[Previous](https://octo-ring.com/p/zk-codes/prev)] | [Random](https://octo-ring.com/p/zk-codes/random)] | [Next](https://octo-ring.com/p/zk-codes/next)]
