@@ -20,6 +20,7 @@ Want to go for a web wander? Visit the [blogroll](https://zacharykai.net/blogrol
 
 - **Fanfic Writers Collective**: https://github.com/zk-codes/fanfic
 - **Oceania Web Atlas**: https://github.com/zk-codes/oceania
+- **Static HTML Site Directory**: https://github.com/zk-codes/static
 
 ---
 
