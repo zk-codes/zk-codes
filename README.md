@@ -16,9 +16,10 @@ Want to go for a web wander? Visit the [blogroll](https://zacharykai.net/blogrol
 
 ---
 
-Directories To Join
+**Directories To Join**
 
-- Oceania Web Atlas: https://github.com/zk-codes/oceania
+- **Fanfic Writers Collective**: https://github.com/zk-codes/fanfic
+- **Oceania Web Atlas**: https://github.com/zk-codes/oceania
 
 ---
 
